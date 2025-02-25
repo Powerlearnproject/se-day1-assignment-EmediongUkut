@@ -40,31 +40,30 @@ Agile (2001) emphasized iterative development and flexibility, while DevOps (201
 
 List and briefly explain the phases of the Software Development Life Cycle.
 Planning
-
 Defines project goals, feasibility, scope, timeline, and resources needed.
 Helps in risk assessment and budgeting.
-Requirement Analysis
 
+Requirement Analysis
 Gathers and documents user and business requirements.
 Ensures clarity on what the software should achieve.
-Design
 
+Design
 Creates system architecture, UI/UX design, and database models.
 Defines software components and interactions.
-Implementation (Coding/Development)
 
+Implementation (Coding/Development)
 Developers write code based on the design specifications.
 Uses programming languages, frameworks, and tools to build the software.
-Testing
 
+Testing
 Identifies and fixes bugs through unit, integration, system, and user acceptance testing (UAT).
 Ensures the software meets quality standards.
-Deployment
 
+Deployment
 Releases the software to users, either in phases or all at once.
 May involve cloud hosting or on-premise setup.
-Maintenance & Support
 
+Maintenance & Support
 Fixes issues, updates features, and optimizes performance after deployment.
 Ensures the software remains functional and secure over time
 
